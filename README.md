@@ -1,4 +1,4 @@
-# To-Do App
+# To-Do App on Python
 
 This is a simple To-Do App created with Python and Flask for the backend, and HTML/CSS for the frontend.
 
