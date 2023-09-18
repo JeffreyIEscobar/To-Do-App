@@ -28,7 +28,6 @@ This is a simple To-Do App created with Python and Flask for the backend, and HT
    ```bash
    cd your-repo-name
    ```
-
 3. Install the required dependencies (Flask).
 
    ```bash
