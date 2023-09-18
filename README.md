@@ -45,7 +45,9 @@ This is a simple To-Do App created with Python and Flask for the backend, and HT
 
 Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
 
-   
+## License
+
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
    
 
 
