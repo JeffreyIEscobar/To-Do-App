@@ -22,3 +22,22 @@ This is a simple To-Do App created with Python and Flask for the backend, and HT
 
    ```bash
    git clone https://github.com/JeffreyIEscobar/To-Do-App.git
+
+2. Navigate to the project directory.
+
+   ```bash
+   cd your-repo-name
+   ```
+
+3. Install the required dependencies (Flask).
+
+   ```bash
+   pip3 install Flask
+   ```
+
+
+
+
+
+
+   
