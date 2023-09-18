@@ -40,6 +40,11 @@ This is a simple To-Do App created with Python and Flask for the backend, and HT
    ```
 5. Open your web browser and go to http://localhost:5000 to use the To-Do App.
 
+
+## Contributing
+
+Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
+
    
    
 
