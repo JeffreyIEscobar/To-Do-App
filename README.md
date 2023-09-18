@@ -34,6 +34,14 @@ This is a simple To-Do App created with Python and Flask for the backend, and HT
    ```bash
    pip3 install Flask
    ```
+4. Run the application.
+   ```bash
+   python3 app.py
+   ```
+5. Open your web browser and go to http://localhost:5000 to use the To-Do App.
+
+   
+   
 
 
 
